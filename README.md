@@ -42,8 +42,8 @@ diseases, which were formed from the International Skin Imaging Collaboration (I
 
 ## Conclusions
 - Model Accuracy: 
-	- Validation Accuracy: 84.63%
-	- Traning Accuracy: 85.12%
+	- Validation Accuracy: 81.47%
+	- Traning Accuracy: 81.14%
 - Model Loss
 	- Validation Loss: 0.4189
 	- Training Loss: 0.3215
